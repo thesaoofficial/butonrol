@@ -1,0 +1,17 @@
+{
+    "name": "butonrol",
+    "version": "1.0.0",
+    "description": "Mortal Kombat bot using Discord.js",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^13.17.1"
+    },
+    "engines": {
+        "node": ">=20.10.0"
+    },
+    "author": ".the_sao_official.",
+    "license": "MIT"
+}
